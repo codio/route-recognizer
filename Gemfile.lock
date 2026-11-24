@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/wagenet/qunit-cli-runner.git
+  remote: https://github.com/wagenet/qunit-cli-runner.git
   revision: 67e773091aed52773eb78ce1b557f642147fe9d9
   branch: master
   specs:
@@ -16,7 +16,7 @@ GEM
       multi_json (>= 1.3)
       rake
     multi_json (1.7.9)
-    rake (10.0.2)
+    rake (12.3.3)
 
 PLATFORMS
   ruby
